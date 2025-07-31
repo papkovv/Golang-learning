@@ -14,6 +14,6 @@ func main() {
 	} else if i >= 1000 && i < 10000 {
 		fmt.Println(i / 1000)
 	} else if i == 10000 {
-		fmt.Println(i / 10000)
+		fmt.Println(i * 10000)
 	}
 }
