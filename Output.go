@@ -13,6 +13,6 @@ func main() {
 		fmt.Printf("%e", number)
 	} else {
 		number *= number
-		fmt.Printf("%.4f", number)
+		fmt.Printf("%.3f", number)
 	}
 }
