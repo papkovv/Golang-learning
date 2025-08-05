@@ -14,7 +14,7 @@ func main() {
 			ten = 1
 
 			for i := 0; i < counter; i++ {
-				ten *= 10
+				ten /= 10
 			}
 
 			number += sum * ten
