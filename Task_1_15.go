@@ -17,7 +17,7 @@ func main() {
 				ten *= 10
 			}
 
-			number += sum * ten
+			number += sum / ten
 			counter++
 		}
 	}
