@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// test 1
+// test
 func main() {
 	var n, d int
 
